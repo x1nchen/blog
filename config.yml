@@ -1,6 +1,6 @@
-baseURL: "https://examplesite.com/"
-title: ExampleSite
-paginate: 5
+baseURL: "https://blog.ccxmeta.org/"
+title: ccx探索实验室
+paginate: 10
 theme: PaperMod
 
 enableRobotsTXT: true
