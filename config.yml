@@ -50,10 +50,10 @@ params:
     apple_touch_icon: "<link / abs url>"
     safari_pinned_tab: "<link / abs url>"
 
-  label:
-    text: "Home"
-    icon: /apple-touch-icon.png
-    iconHeight: 35
+  # label:
+  #   text: "Home"
+  #   icon: /apple-touch-icon.png
+  #   iconHeight: 35
 
   # profile-mode
   profileMode:
