@@ -16,8 +16,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ccx tech lab
-  description: "ccx 探索实验室"
+  title: ccx cloud lab
+  description: "ccx cloud lab"
   keywords: [Blog, Portfolio, PaperMod]
   author: ccx
   # author: ["Me", "You"] # multiple authors
